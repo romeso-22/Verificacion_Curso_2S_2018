@@ -35,6 +35,6 @@ Subir archivos al repositorio:
 ```
 $ git status //para ver los archivos que han sido modificados
 $ git add <files> //para agregar los archivos que deseo subir al repositorio
-$ git commit -m "Mensaje para el commit" //para preparar los archivos que incluí para subir al repositorio, el mensaje es referente al                                               cambio realizado
-$git push origin master //subir los cambios al repositorio
+$ git commit -m "Mensaje para el commit" //para preparar los archivos que incluí para subir al repositorio, el mensaje es referente al cambio realizado
+$ git push origin master //subir los cambios al repositorio
 ```
