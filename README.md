@@ -6,8 +6,9 @@ ________________________________________________________________________________
 # Software para trabajar con Github e instalación:
 
 Windows:
-Github Bash (Recomendado) (https://gitforwindows.org/)
-Github Desktop.
+- Github Bash (Recomendado) (https://gitforwindows.org/)
+
+- Github Desktop.
 
 Linux:
 https://gist.github.com/derhuerst/1b15ff4652a867391f03
