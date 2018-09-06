@@ -23,14 +23,14 @@ Clonar el repositorio:
 $ git clone https://github.com/rmolina44tec/Verificacion_Curso_2S_2018.git
 ```
 
-Actualizar el repositorio:
+Actualizar el repositorio local:
 
 ```
 $ git checkout master
 $ git pull
 ```
 
-Subir archivos al repositorio:
+Subir archivos al repositorio global:
 
 ```
 $ git status //para ver los archivos que han sido modificados
