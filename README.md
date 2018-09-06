@@ -19,6 +19,8 @@ ________________________________________________________________________________
 
 Clonar el repositorio:
 
+$ git clone https://github.com/rmolina44tec/Verificacion_Curso_2S_2018.git
+
 Actualizar el repositorio:
 
 Subir archivos al repositorio:
