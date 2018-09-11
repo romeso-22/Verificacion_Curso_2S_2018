@@ -33,7 +33,7 @@ $ git pull
 Subir archivos al repositorio global:
 
 ```
-$ git status //para ver los archivos que han sido modificados
+$ git status //para ver los archivos que han sido modificados y el estado del repositorio local versus el repositorio principal
 $ git add <files> //para agregar los archivos que deseo subir al repositorio
 $ git commit -m "Mensaje para el commit" //para preparar los archivos que incluí para subir al repositorio, el mensaje es referente al cambio realizado
 $ git push origin master //subir los cambios al repositorio
