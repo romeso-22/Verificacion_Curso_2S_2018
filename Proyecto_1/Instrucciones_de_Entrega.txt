@@ -1,0 +1,11 @@
+Esto es lo que deben hacer para la entrega del primer proyecto:
+
+1) Crear una carpeta con su nombre completo en la carpeta de "Proyecto_1" bajo el siguiente formato:
+
+Molina_Robles_Roberto
+
+2) Dentro de esa carpeta van a colocar los archivos fuente de la tarea. Con archivos fuente me refiero solo a los .v o .sv,
+referentes a Verilog o SystemVerilog.
+
+3) Van a realizar un commit al repositorio con los archivos nuevos para yo tener acceso a ellos.
+(Ver Readme del repositorio)
